@@ -1,1 +1,1 @@
-# Confused-student-3.0
+app/api/ai-insights/route.ts
